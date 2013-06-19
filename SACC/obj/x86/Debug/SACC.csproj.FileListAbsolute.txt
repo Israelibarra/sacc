@@ -1,0 +1,11 @@
+c:\users\administrateur\documents\visual studio 2010\Projects\SACC\SACC\bin\Debug\SACC.exe
+c:\users\administrateur\documents\visual studio 2010\Projects\SACC\SACC\bin\Debug\SACC.pdb
+c:\users\administrateur\documents\visual studio 2010\Projects\SACC\SACC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2010\Projects\SACC\SACC\obj\x86\Debug\SACC.frmRegistrar.resources
+c:\users\administrateur\documents\visual studio 2010\Projects\SACC\SACC\obj\x86\Debug\SACC.Properties.Resources.resources
+c:\users\administrateur\documents\visual studio 2010\Projects\SACC\SACC\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrateur\documents\visual studio 2010\Projects\SACC\SACC\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrateur\documents\visual studio 2010\Projects\SACC\SACC\obj\x86\Debug\SACC.exe
+c:\users\administrateur\documents\visual studio 2010\Projects\SACC\SACC\obj\x86\Debug\SACC.pdb
+C:\Users\Administrateur\documents\visual studio 2010\Projects\SACC\SACC\bin\Debug\MySql.Data.dll
+C:\Users\Administrateur\documents\visual studio 2010\Projects\SACC\SACC\obj\x86\Debug\SACC.frmClientes.resources
